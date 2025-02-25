@@ -11,11 +11,12 @@ $il-button-font-size: s-typo.$il-font-size-small !default;
 $il-button-font-weight: s-typo.$il-font-weight-base !default;
 
 //** Text color of the standard button (most button instances)
-$il-btn-standard-color: white !default;
+//$il-btn-standard-color: white !default;
+$il-btn-standard-color: black !default;
 //** Background color of the standard button (most button instances)
-$il-btn-standard-bg: s-color.$il-main-color !default;
+$il-btn-standard-bg: s-color.$vwa-yellow !default;
 //** Border color of the standard button (most button instances)
-$il-btn-standard-border: s-color.$il-main-color !default;
+$il-btn-standard-border: s-color.$vwa-yellow !default;
 
 //** Text color of the primary button (most important button on the screen)
 $il-btn-primary-color: white !default;

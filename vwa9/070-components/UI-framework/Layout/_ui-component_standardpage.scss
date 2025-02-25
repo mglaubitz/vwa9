@@ -100,7 +100,8 @@ div.il-system-infos {
 // head-container with logo pagetitle and metabar
 .header-inner {
     align-items: center;
-    background: $il-standard-page-header-bg-color;
+//    background: $il-standard-page-header-bg-color;
+    background: $vwa-yellow;
     display: flex;
     flex-direction: row;
     height: $il-standard-page-header-height;
